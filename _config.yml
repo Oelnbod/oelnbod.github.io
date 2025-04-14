@@ -20,9 +20,9 @@
 
 title: Oelnbod's blog
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  	    Various assorted comments from a woke rando.
-	    Privacy and info-sec themed.
+description: >-
+ Various assorted comments from a woke rando.
+ Privacy and info-sec themed.
 #baseurl: "/oelnbod.github.io" # the subpath of your site, e.g. /blog
 domain: http://oelnbod.github.io
 url: "http://oelnbod.github.io" # the base hostname & protocol for your site, e.g. http://example.com
