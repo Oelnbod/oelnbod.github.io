@@ -10,4 +10,4 @@ My photos areavailable here: https://www.pexels.com/@oelnbod/
 
 Everything written here (excluding other's works) is CC0, but I would appreciate credit. 
 
-My preffered distro i srocky Linux. 
+My preffered distro is rocky Linux. 
