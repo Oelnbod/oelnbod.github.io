@@ -1,5 +1,6 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
+{% if page.layout == "post" %}
   <script src="https://giscus.app/client.js"
 	  data-repo="oelnbod/blog-comments"
 	  data-repo-id="R_kgDOOaBrXA"
@@ -14,7 +15,8 @@
 	  data-lang="en"
 	  crossorigin="anonymous"
 	  async>
-    </script>
+  </script>
+  {% endif %}
   <div class="wrapper">
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
