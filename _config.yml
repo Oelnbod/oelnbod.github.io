@@ -52,14 +52,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-comments:
-  active: "giscus"
-       enabled: true
-       repo: "oelnbod/blog-comments"
-       repo_id: "R_kgDOOaBrXA"
-       category: "Announcements"
-       category_id: "DIC_kwDOOaBrXM4CpHvw"
-       mapping: "pathname"
-       input_position: "bottom"
-       reactions_enabled: "1"
-				      
