@@ -52,3 +52,21 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+comments:
+  provider: "giscus"
+    commentable:
+        page: false
+	    post: true
+	        docs: false
+		    project: false
+		        publication: true
+			    talk: false
+			      giscus:
+			          repo: "oelnbod/blog-comments"
+				      repo_id: "R_kgDOOaBrXA"   # (Ensure you use the full value if needed)
+				          category: "Announcements"
+					      category_id: "DIC_kwDOOaBrXM4CpHvw"   # (Again, verify the full string)
+					          mapping: "pathname"
+						      label: "comment"
+						          theme: "light"
+							  
