@@ -1,6 +1,6 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-{% if page.layout == "post" %}
+{% if page.url != "/" and page.layout == "post" %}
   <script src="https://giscus.app/client.js"
 	  data-repo="oelnbod/blog-comments"
 	  data-repo-id="R_kgDOOaBrXA"
