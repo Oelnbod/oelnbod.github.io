@@ -15,3 +15,4 @@ My username comes from removing the first and last characters from my name (Joel
 
 Everything written here (excluding other's works) is CC0, but I would appreciate credit. 
 
+Schedule: whenever I feel like it.
