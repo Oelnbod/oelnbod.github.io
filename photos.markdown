@@ -1,5 +1,6 @@
 ---
-layout: null
+layout: page
+permalink: /photos/
 ---
 
 <!DOCTYPE html>
