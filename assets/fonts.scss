@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'ComicMono';
+    src: url('/assets/fonts/ComicMono.tff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'ComicMono';
+    src: url('/assets/fonts/ComicMono-Bold.tff');
+    font-weight: bold;
+	 
+}
+body {
+    font-family: 'ComicMono', monospace
+}
