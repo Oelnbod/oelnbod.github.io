@@ -12,3 +12,5 @@ Please come along, we don't bite!
 
   
 More information  to come!
+
+Any questions, comment below or email joel.body@proton.me .
