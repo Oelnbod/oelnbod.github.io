@@ -1,13 +1,13 @@
 ---
 layout: page
 title: EndOf10
-permalink: /endof10/
+permalink: /eo10/
 ---
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="refresh" content="0; url=(https://oelnbod.github.io/events/2025/05/20/Abingdon-EndOf10-Install-Event)" />
-    <link rel="canonical" href="(https://oelnbod.github.io/events/2025/05/20/Abingdon-EndOf10-Install-Event)" />
+    <meta http-equiv="refresh" content="0; url=https://oelnbod.github.io/events/2025/05/20/Abingdon-EndOf10-Install-Event" />
+    <link rel="canonical" href="https://oelnbod.github.io/events/2025/05/20/Abingdon-EndOf10-Install-Event" />
     <title>Redirecting...</title>
 </head>
 <body>
