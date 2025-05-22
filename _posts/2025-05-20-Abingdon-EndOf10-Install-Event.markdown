@@ -24,7 +24,8 @@ Current distros planned to install:
 - kubuntu 
 - lastOS
 - solus budgie
+- Any others (we can download on the day or email me/comment below)
 
-More information  to come!
+More information to come!
 
 Any questions, comment below or email joel.body@proton.me .
