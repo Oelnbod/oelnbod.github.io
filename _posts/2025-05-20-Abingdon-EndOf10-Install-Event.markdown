@@ -4,7 +4,8 @@ title:  "Abingdon EndOf10 Install event"
 date:   2025-05-20 
 categories: events
 ---
-![End Of Ten Logo](https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png)
+<img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
+
 # Abingdon-EndOf10
 Information about the Abingdon EndOf10 GNU/Linux install event.
 Please come along, we don't bite!  
