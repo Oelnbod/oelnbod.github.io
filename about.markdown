@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/assets/images/Other/me.jpg" alt="Me!" width="200">
+<img src="/assets/images/Other/me.jpg" alt="Me!" width="400"> 
 Hi, I am a person (yes, really).
 
 I am a student programmer(rust and python), an advocate for digital privacy and cybersecurity and a photographer. 
