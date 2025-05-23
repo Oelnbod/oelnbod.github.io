@@ -34,4 +34,4 @@ Current distros planned to install:
 
 
 Do you want to volunteer on this event? Send me an email.
-Any questions, comment below or email me at [joel.body@proton.me[(mailto:joel.body@proton.me) .
+Any questions, comment below or email me at [joel.body@proton.me](mailto:joel.body@proton.me) .
