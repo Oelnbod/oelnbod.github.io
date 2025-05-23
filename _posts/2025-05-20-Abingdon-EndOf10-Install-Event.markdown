@@ -12,7 +12,7 @@ Please come along, we don't bite!  😄
 <img src="https://invent.kde.org/teams/eco/opt-green/-/raw/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg?ref_type=heads" alt="Infographic" width ="800"/>
 
 ## When?
-We are running from 10am-3pm on the 28th of June.
+We are running from ***10am-3pm on Saturday the 28th of June.***
 
 ## What?
 We offer 4 services:
