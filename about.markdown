@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 <img src="/assets/images/Other/me.jpg" alt="Me!" width="400"> 
+<p></p>
 Hi, I am a person (yes, really).
 
 I am a student programmer(rust and python), an advocate for digital privacy and cybersecurity and a photographer. 
