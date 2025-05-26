@@ -13,6 +13,8 @@ Please come along, we don't bite!  😄
 
 ## When?
 We are running from ***10am-3pm on Saturday the 28th of June.***
+## Where?
+The Abingdon Town Library (The Charter, Abingdon OX14 3LY).
 
 ## What?
 We offer 4 services:
