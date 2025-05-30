@@ -24,14 +24,15 @@ We offer 4 services:
 - A chat about GNU/Linux!
 
 Current distros planned to install:
-- zorin 
-- fedora KDE
-- fedora kionite
-- mint
+- Zorin 
+- Fedora KDE
+- Fedora kionite
+- Mint
 - Ubuntu 
-- kubuntu 
-- lastOS
-- solus budgie
+- Kubuntu 
+- LastOS
+- Solus budgie
+- Xubuntu
 - Any others (we can download on the day or email me/comment below and I will predownload for you.)
 
 
