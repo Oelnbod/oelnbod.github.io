@@ -16,3 +16,4 @@ permalink: /eo10/
 	
 </body>
 </html>
+{{ site.data.posts.2025-05-20-Abingdon-EndOf10-Install-Event.markdown }}
