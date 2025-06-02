@@ -39,4 +39,4 @@ Current distros planned to install:
 Do you want to volunteer on this event? Send me an email.
 Any questions, comment below or email me at [joel.body@proton.me](mailto:joel.body@proton.me) .
 
-This event is part of the EndOf10 initiative (endof10.org).
+This event is part of the EndOf10 initiative ([endof10.org](endof10.org)).
