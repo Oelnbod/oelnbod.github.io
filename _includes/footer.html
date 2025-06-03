@@ -1,4 +1,5 @@
 <footer class="site-footer h-card">
+
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 {% if page.layout == "post" %}
   <script src="https://giscus.app/client.js"
@@ -17,6 +18,7 @@
 	  async>
   </script>
   {% endif %}
+<meta name="fediverse:creator" content="@Oelnbod@ecoevo.social">
   <div class="wrapper">
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
@@ -33,7 +35,10 @@
             </li>
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+
+
+{%- endif -%}
+<a rel="me" href="https://ecoevo.social/@Oelnbod">Mastodon</a>
         </ul>
       </div>
 
