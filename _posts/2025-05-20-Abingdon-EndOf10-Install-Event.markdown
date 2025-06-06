@@ -37,7 +37,7 @@ Current distros planned to install:
 
 
 Do you want to volunteer on this event? Send me an email.
-Volunteers: look [here](https://github.com/Oelnbod/Abingdon-EndOf10) (WIP)
+Volunteers: look [here](https://github.com/Oelnbod/Abingdon-EndOf10)
 
 Any questions, comment below or email me at [joel.body@proton.me](mailto:joel.body@proton.me) .
 
