@@ -28,8 +28,7 @@ description: >-
 domain: http://oelnbod.github.io
 url: "http://oelnbod.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Oelnbod
-mastodon_username: Oelnbod
-mastodon_instance: mastodon.social
+
 
 # Build settings
 theme: minima
