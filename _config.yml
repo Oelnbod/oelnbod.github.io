@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Oelnbod's blog
+title: The Oelnblog
 email: joel.body@proton.me
 description: >- 
     Photography, privacy, FLOSS and politcal themed blog from a learner programmer.     
