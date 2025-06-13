@@ -33,6 +33,7 @@ Current distros planned to install:
 - LastOS
 - Solus budgie
 - Xubuntu
+- Pop_OS! (with NVIDIA support)
 - Any others (we can download on the day or email me/comment below and I will predownload for you.)
 
 
