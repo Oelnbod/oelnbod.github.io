@@ -5,13 +5,10 @@ date:   2025-05-20
 categories: events
 ---
 
-# Abingdon-EndOf10  
+## Why
 <img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-
 <div style="flex: 1; min-width: 300px;">
-
-
 
 Windows 10 is ending support on October 14th 2025. This will lead to over 250 *million* computers vulnerable to hacking and will become incompatable with modern software. As most people replace their computers at this point, many computers will end up in e-waste. E-waste is incredibly toxic and harmful if not safely recycled. Just have a look at the inforgraphic below! However, instead of replacing your computer, you can install a version of GNU/Linux (called a distro), this is often percieved as a more complex process than installing Windows (which often comes pre-installed), but we can help! We are offering to help you install a GNU/Linux distro and help you get up and running with using it.  
 Please come along, we don't bite!  😄  <br>
@@ -19,7 +16,7 @@ Please come along, we don't bite!  😄  <br>
 </div>
 
 <div style="flex: 1; min-width: 300px;">
-<img src="https://invent.kde.org/teams/eco/opt-green/-/raw/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg?ref_type=heads" alt="Infographic" width ="200"/>
+<img src="https://invent.kde.org/teams/eco/opt-green/-/raw/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg?ref_type=heads" alt="Infographic" width ="350"/>
   
 </div>
 
