@@ -9,7 +9,7 @@ categories: events
 # Abingdon-EndOf10
 Windows 10 is ending support on October 14th 2025. This will lead to over 250 *million* computers vulnerable to hacking and will become incompatable with modern software. As most people replace their computers at this point, many computers will end up in e-waste. E-waste is incredibly toxic and harmful if not safely recycled. Just have a look at the inforgraphic below! However, instead of replacing your computer, you can install a version of GNU/Linux (called a distro), this is often percieved as a more complex process than installing Windows (which often comes pre-installed), but we can help! We are offering to help you install a GNU/Linux distro and help you get up and running with using it.  
 Please come along, we don't bite!  😄
-<img src="https://invent.kde.org/teams/eco/opt-green/-/raw/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg?ref_type=heads" alt="Infographic" width ="800"/>
+<img src="https://invent.kde.org/teams/eco/opt-green/-/raw/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg?ref_type=heads" alt="Infographic" width ="80"/>
 
 ## When?
 We are running from ***10am-3pm on Saturday the 28th of June.***
