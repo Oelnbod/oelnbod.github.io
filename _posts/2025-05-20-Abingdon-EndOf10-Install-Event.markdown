@@ -2,7 +2,7 @@
 layout: post
 title:  "Abingdon EndOf10 Install event"
 date:   2025-05-20 
-categories: events, test
+categories: events
 ---
 
 <img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
@@ -16,7 +16,8 @@ This is *extremely* bad for the environment.
 Despite what you may have heard, Linux is a very mature Operating System.  
 To help you make the switch, we are running an ***install event*** from ***10am-3pm on Saturday the 28th of June*** at the Abingdon Library. 
 Here ***we will help you migrate to Linux*** (including installation and guidance, etc).
-If you are planning to attend, please backup your data and files beforehand - but if you do not know/have the resources to do this we can backup your data (but it would help us if you did it😃).    
+If you are planning to attend, please backup your data and files beforehand - but if you do not know/have the resources to do this we can backup your data (but it would help us if you did it😃). 
+   
   
 ## Why
 Windows 10 is ending support on October 14th 2025. This will lead to over  ***250 million***  computers vulnerable to hacking and will become incompatable with modern software. As most people replace their computers at this point, many computers will end up in e-waste. E-waste is incredibly toxic and harmful if not safely recycled. Just have a look at the inforgraphic below! However, instead of replacing your computer, you can install a version of GNU/Linux (called a distro), this is often percieved as a more complex process than installing Windows (which often comes pre-installed), but we can help! We are offering to help you install a GNU/Linux distro and help you get up and running with using it.  <br>
@@ -55,7 +56,7 @@ Current distros planned to install:
 
 Do you want to volunteer on this event? Send me an email!
 If you are a volunteer, look at this: [https://github.com/Oelnbod/Abingdon-EndOf10](https://github.com/Oelnbod/Abingdon-EndOf10)
-
+Or if you have no technical experience, tell your friends and family to come! :heart
 Any questions, comment below or email me at [joel.body@proton.me](mailto:joel.body@proton.me) .
 
 This event is part of the EndOf10 initiative ([endof10.org](https://www.endof10.org)).
