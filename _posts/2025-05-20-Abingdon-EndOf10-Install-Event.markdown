@@ -10,7 +10,7 @@ categories: events
 ## Summary
 Windows 10 ends support on October 14th 2025. This is predicted to send ***250 million*** computers to landfill.   
 This is *extremely* bad for the environment.   
-***But you can stop this.***
+***But you can stop this.***  
 ***Installing Linux*** (a replacement operating system) can ***keep your computer running.***    
 Despite what you may have heard, Linux is a very mature Operating System.  
 To help you make the switch, we are running an ***install event*** from ***10am-3pm on Saturday the 28th of June*** at the Abingdon Library. 
