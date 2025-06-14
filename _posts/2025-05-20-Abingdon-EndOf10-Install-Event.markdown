@@ -15,7 +15,8 @@ This is *extremely* bad for the environment.
 Despite what you may have heard, Linux is a very mature Operating System.  
 To help you make the switch, we are running an ***install event*** from ***10am-3pm on Saturday the 28th of June*** at the Abingdon Library. 
 Here ***we will help you migrate to Linux*** (including installation and guidance, etc).
-If you are planning to attend, please backup your data and files beforehand - but if you do not know/have the resources to do this we can backup your data (but it would help us if you did it😃).
+If you are planning to attend, please backup your data and files beforehand - but if you do not know/have the resources to do this we can backup your data (but it would help us if you did it😃).    
+
 </div>
 
 <div style="flex: 1; min-width: 300px;">
