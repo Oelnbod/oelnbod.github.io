@@ -56,7 +56,7 @@ Current distros planned to install:
 
 Do you want to volunteer on this event? Send me an email!
 If you are a volunteer, look at this: [https://github.com/Oelnbod/Abingdon-EndOf10](https://github.com/Oelnbod/Abingdon-EndOf10)
-Or if you have no technical experience, tell your friends and family to come! :heart
+Or if you have no technical experience, tell your friends and family to come! :heart.   
 Any questions, comment below or email me at [joel.body@proton.me](mailto:joel.body@proton.me) .
 
 This event is part of the EndOf10 initiative ([endof10.org](https://www.endof10.org)).
