@@ -4,7 +4,9 @@ title:  "Abingdon EndOf10 Install event"
 date:   2025-05-20 
 categories: events
 ---
-
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 300px;">
+  
 ## Summary
 Windows 10 ends support on October 14th 2025. This is predicted to send ***250 million*** computers to landfill.   
 This is *extremely* bad for the environment.   
@@ -14,9 +16,16 @@ Despite what you may have heard, Linux is a very mature Operating System.
 To help you make the switch, we are running an ***install event*** from ***10am-3pm on Saturday the 28th of June*** at the Abingdon Library. 
 Here ***we will help you migrate to Linux*** (including installation and guidance, etc).
 If you are planning to attend, please backup your data and files beforehand - but if you do not know/have the resources to do this we can backup your data (but it would help us if you did it😃).
+</div>
 
+<div style="flex: 1; min-width: 300px;">
+</div>
+
+</div>
 
 <img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
+
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 300px;">
   
