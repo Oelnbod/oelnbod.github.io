@@ -5,8 +5,7 @@ date:   2025-05-20
 categories: events
 ---
   
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-<div style="flex: 1; min-width: 300px;">
+
   
 ## Summary
 Windows 10 ends support on October 14th 2025. This is predicted to send ***250 million*** computers to landfill.   
@@ -23,7 +22,8 @@ If you are planning to attend, please backup your data and files beforehand - bu
 
 
 
-
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 300px;">
 
   
 ## Why
