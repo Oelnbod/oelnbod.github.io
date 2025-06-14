@@ -2,7 +2,7 @@
 layout: post
 title:  "Abingdon EndOf10 Install event"
 date:   2025-05-20 
-categories: events
+categories: events, test
 ---
 
 <img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
