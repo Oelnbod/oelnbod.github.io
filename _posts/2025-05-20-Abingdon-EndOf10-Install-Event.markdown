@@ -4,7 +4,8 @@ title:  "Abingdon EndOf10 Install event"
 date:   2025-05-20 
 categories: events
 ---
-  
+
+<img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
 
   
 ## Summary
@@ -16,24 +17,15 @@ Despite what you may have heard, Linux is a very mature Operating System.
 To help you make the switch, we are running an ***install event*** from ***10am-3pm on Saturday the 28th of June*** at the Abingdon Library. 
 Here ***we will help you migrate to Linux*** (including installation and guidance, etc).
 If you are planning to attend, please backup your data and files beforehand - but if you do not know/have the resources to do this we can backup your data (but it would help us if you did it😃).    
-
-
-
-
-
-
-
-
   
 ## Why
 Windows 10 is ending support on October 14th 2025. This will lead to over  ***250 million***  computers vulnerable to hacking and will become incompatable with modern software. As most people replace their computers at this point, many computers will end up in e-waste. E-waste is incredibly toxic and harmful if not safely recycled. Just have a look at the inforgraphic below! However, instead of replacing your computer, you can install a version of GNU/Linux (called a distro), this is often percieved as a more complex process than installing Windows (which often comes pre-installed), but we can help! We are offering to help you install a GNU/Linux distro and help you get up and running with using it.  <br>
 For more details of the environmental impact have a look at the infographic on the left! <br>
 Please come along, we don't bite!  😄  
 
-<div style="flex: 1; min-width: 300px;">
-  <img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
-  <img src="https://invent.kde.org/teams/eco/opt-green/-/raw/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg?ref_type=heads" alt="Infographic" width ="350"/>
 
+<img src="https://invent.kde.org/teams/eco/opt-green/-/raw/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg?ref_type=heads" alt="Infographic" width ="350"/>
+  
 
 ## When?
 We are running from ***10am-3pm on Saturday the 28th of June.***
