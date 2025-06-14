@@ -22,8 +22,7 @@ If you are planning to attend, please backup your data and files beforehand - bu
 
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-<div style="flex: 1; min-width: 300px;">
+
 
   
 ## Why
@@ -31,15 +30,10 @@ Windows 10 is ending support on October 14th 2025. This will lead to over  ***25
 For more details of the environmental impact have a look at the infographic on the left! <br>
 Please come along, we don't bite!  😄  
 
-</div>
-
 <div style="flex: 1; min-width: 300px;">
   <img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
   <img src="https://invent.kde.org/teams/eco/opt-green/-/raw/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg?ref_type=heads" alt="Infographic" width ="350"/>
-  
-</div>
 
-</div>
 
 ## When?
 We are running from ***10am-3pm on Saturday the 28th of June.***
