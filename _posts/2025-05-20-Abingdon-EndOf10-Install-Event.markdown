@@ -19,11 +19,12 @@ If you are planning to attend, please backup your data and files beforehand - bu
 </div>
 
 <div style="flex: 1; min-width: 300px;">
+  <img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
 </div>
 
 </div>
 
-<img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
+
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
