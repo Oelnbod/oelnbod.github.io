@@ -8,7 +8,9 @@ permalink: /about/
 Hi, I am a person (yes, really).
 
 I am a student programmer, an advocate for digital privacy and cybersecurity and a photographer. 
-My photos areavailable here: https://www.pexels.com/@oelnbod/
+My photos are available here: https://www.pexels.com/@oelnbod/
+
+I am passionate about FOSS, Human Rights, stopping Climate Change and ending the kleptocracy.
 
 My (current) preffered distro is rocky Linux. 
 
