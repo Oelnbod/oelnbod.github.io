@@ -7,13 +7,13 @@ permalink: /about/
 <p></p>
 Hi, I am a person (yes, really).
 
-I am a student programmer(rust and python), an advocate for digital privacy and cybersecurity and a photographer. 
+I am a student programmer, an advocate for digital privacy and cybersecurity and a photographer. 
 My photos areavailable here: https://www.pexels.com/@oelnbod/
 
-My preffered distro is rocky Linux. 
+My (current) preffered distro is rocky Linux. 
 
-My username comes from removing the first and last characters from my name (Joel Body) and the addition of my middle initial.
+My username comes from removing the first and last characters from my name (Joel Nelson Body) and the addition of my middle initial. Looking up "Body" or a computer is a bad idea. *Never* Call me Oelnbod or my full name in person. 😃 
 
-Everything written here (excluding other's works) is CC0, but I would appreciate credit. 
+Everything written here (excluding other's works) is CC0, but I would appreciate credit. My photos on Pexels are licensed under the pexels license: [https://www.pexels.com/license/](https://www.pexels.com/license/)
 
 Schedule: whenever I feel like it.
