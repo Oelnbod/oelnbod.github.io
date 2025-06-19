@@ -47,7 +47,6 @@ Current distros planned to install:
 - Mint
 - Ubuntu 
 - Kubuntu 
-- LastOS
 - Solus budgie
 - Xubuntu
 - Pop_OS! (with NVIDIA support)
