@@ -1,3 +1,0 @@
-14:17:20.094979 IP 192.168.1.123.50382 > nirauan.ssh: Flags [.], ack 2034402494, win 1719, options [nop,nop,TS val 1841808348 ecr 1346734566], length 0
-14:17:20.095157 IP 192.168.1.123.50382 > nirauan.ssh: Flags [.], ack 189, win 1718, options [nop,nop,TS val 1841808348 ecr 1346734566], length 0
-
