@@ -7,7 +7,7 @@ categories: events
 
 # ***This event has already happended. ***
 ----------------------------------------  
-## Please email me if you are interested in installing Linux and if there is enough interest I am willing to run another event, hence the details are left below.   
+## Please email, comment or message me on mastodon if you are interested in installing Linux and if there is enough interest I am willing to run another event, hence the details are left below.   
 ##If you are interested in some photos, please have a look at: https://mastodon.social/@Oelnbod/114761271547929543 
 <img src="https://invent.kde.org/websites/endof10-org/-/raw/master/brand/social-media-avatar-circle.png" alt="End Of Ten Logo" width ="200"/>
 
