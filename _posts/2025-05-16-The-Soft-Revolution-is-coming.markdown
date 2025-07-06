@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The soft revolution is coming!
-tags: computing, FLOSS, rights, forecast
+tags: computing, FLOSS, rights, forecast, opinions
 ---
 
 # I can feel it, the soft revolution is coming!
