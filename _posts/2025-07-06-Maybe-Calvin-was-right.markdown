@@ -18,5 +18,6 @@ And at the same time, he was unafraid to speak truth to power. He would challeng
   
 Maybe Calvin brought this energy for change. 
 Maybe Calvin was right. 
-
-
+  
+:heart  
+  
