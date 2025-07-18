@@ -34,6 +34,14 @@
             </li>
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+{% if site.matrix_account %}
+  <div class="matrix-account">
+    <a href="https://matrix.to/#/{{ site.matrix_account | url_encode }}" target="_blank">
+      Chat with me on Matrix
+    </a>
+  </div>
+{% endif %}
+
 	    <a rel="me" href="https://mastodon.social/@Oelnbod">Mastodon</a>	    
 
 	    {%- endif -%}
@@ -44,13 +52,6 @@
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
       </div>
-{% if site.matrix_account %}
-  <div class="matrix-account">
-    <a href="https://matrix.to/#/{{ site.matrix_account | url_encode }}" target="_blank">
-      Chat with me on Matrix
-    </a>
-  </div>
-{% endif %}
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
