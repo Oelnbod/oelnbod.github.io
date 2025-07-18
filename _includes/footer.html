@@ -44,6 +44,13 @@
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
       </div>
+{% if site.matrix_account %}
+  <div class="matrix-account">
+    <a href="https://matrix.to/#/{{ site.matrix_account | url_encode }}" target="_blank">
+      Chat with me on Matrix
+    </a>
+  </div>
+{% endif %}
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
