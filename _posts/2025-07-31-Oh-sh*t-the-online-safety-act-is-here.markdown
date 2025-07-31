@@ -14,10 +14,13 @@ I cannot state this enough, this data is the *holy grail* of personal data. Hack
 ## So what are your options?
 1. Use a trusted public VPN.
 2. Host your own VPN (technical and expensive)
-3. The Onion Router (dangerous)
+3. The Onion Router (TOR) (dangerous)
 
 ### Use a trusted public VPN
 A VPN will circumvent the age checks, by redirecting your traffic to another country. But crucially, don't use some free VPN you have found. You must use a VPN that you can have a strong reason to believe is not spying on you. These companies and their internet providers have unrestricted access to your internet traffic, which can be used to target you with advertising. Pick a VPN from a nonprofit (like riseup.net) or a VPN that has a strong profit model. Pick VPNs that are iso27001 certified where possible and based in the EU, where GDPR is *actually* enforced. European servers will also give you better speed due to their physical proximityy. I personally use proton VPN, which is both iso27001 certified and swiss based (where GDPR & DPA is strictly enforced).
 
 ### Host your own VPN
-This is not an unreasonable option, if you have the skill. I will leave this short as if you are doing this, you probably already are. But if you are inspired to tackle the task, ensure you use wireguard for optimum speed and base your VM/VPS in Europe. I recommend the Netherlands due to their physical proximity. 
+This is not an unreasonable option, if you have the skill. I will leave this short as if you are able to do this, you probably already are. But if you are inspired to tackle the task, ensure you use wireguard for optimum speed and base your VM/VPS in Europe. I recommend the Netherlands due to their physical proximity. 
+
+### The Onion Router (TOR)
+Don't use this. This can leas you onto the darkweb. In addition it is *slow*. But if a VPN is not working, using it through an app such as orbot or InviZible Pro. Snowflake can also be used. ***ONLY USE THIS AS A LAST RESORT.***
