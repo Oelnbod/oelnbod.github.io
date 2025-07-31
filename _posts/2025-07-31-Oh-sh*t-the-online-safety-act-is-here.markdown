@@ -3,15 +3,23 @@ layout: post
 title: Oh sh*t the Online "Safety" Act is here
 tags: Online Safety Act, government, privacy, human rights, censorship
 ---
+# The short version
+- ***DO NOT VERIFY YOUR AGE!***
+- ***YOU ARE HANDING OVER YOUR MOST VALUABLE PERSONAL DATA TO A COMPANY***
+- ***USE A TRUSTED VPN (like riseup.net, proton VPN, IVPN, etc)***.
+- ***DON'T USE A FREE VPN***
+  
+# The long version
 Unfortunately the Online "Safety" Act (OSA) is here. If you are in the UK, you might get told to verify your age with ID, digital ID, mobile & email checks, credit card checks, payment details or a selfie video. 
   
-### ***DO NOT DO THIS!!***  
+ ***DO NOT DO THIS!!***  
   
 We do not know how secure this data is. Companies collecting *millions* of people's ID, bank details and videos of themselves tied to name *could not be more attractive to hackers*.  It is reasonable to *assume* that this data will be hacked. Because you cannot change your face, this data has to be safe *for the rest of your life*. And with the *ludicrous* growth in computing power (even if Moore's law is defunct, which isn't necessarily true) and with the advent of quantumn computing - a store now, crack later model is *insanely* practical for hackers when faced with such stupendously valuable data. 
   
 I cannot state this enough, this data is the *holy grail* of personal data. Hackers *will* be trying *desperately* to breach this. Because with that data, it is possible to impersonate you to a level beyond what we have seen today. 
   
-Another reason to not prove your age is principle. I strongly encourage you to resist this attempt at restricting civil liberty. 
+Another reason to not prove your age is principle. I strongly encourage you to resist this attempt at restricting civil liberty. This act is *already* [being used to prevent information against the government being spread](https://www.404media.co/uk-users-need-to-post-selfie-or-photo-id-to-view-reddits-r-israelcrimes-r-ukrainewarfootage/). And with the facility for Internet Service Providers (ISPs) to block websites that do not comply, this is borderline "Great Firewall of the UK". Information about government accountability matters to all, including minors. And many people may not be able to access ID, if they lack a drivers license and do not hold a passport. This particularly affects minority groups and the youth. Whilst there are many age verification systems, most platforms only implement one - restricting access to information for minorities. It also violates one of the fundamental pillars of the internet: *free (as in freedom *and* money) access to information for all.*
+  
 ## So what are your options?
 1. Use a trusted public VPN.
 2. Host your own VPN (technical and expensive)
