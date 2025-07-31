@@ -23,4 +23,4 @@ A VPN will circumvent the age checks, by redirecting your traffic to another cou
 This is not an unreasonable option, if you have the skill. I will leave this short as if you are able to do this, you probably already are. But if you are inspired to tackle the task, ensure you use wireguard for optimum speed and base your VM/VPS in Europe. I recommend the Netherlands due to their physical proximity. 
 
 ### The Onion Router (TOR)
-Don't use this. This can leas you onto the darkweb. In addition it is *slow*. But if a VPN is not working, using it through an app such as orbot or InviZible Pro. Snowflake can also be used. ***ONLY USE THIS AS A LAST RESORT.***
+Don't use this. This can leas you onto the darkweb. In addition it is *slow*. But if a VPN is not working, using it through an app such as orbot or InviZible Pro will tunnel all of your device through it (like a VPN will). Snowflake can also be used. ***ONLY USE THIS AS A LAST RESORT.***
