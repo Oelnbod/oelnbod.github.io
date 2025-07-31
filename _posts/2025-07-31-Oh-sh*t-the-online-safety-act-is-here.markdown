@@ -8,6 +8,7 @@ tags: Online Safety Act, government, privacy, human rights, censorship
 - ***YOU ARE HANDING OVER YOUR MOST VALUABLE PERSONAL DATA TO A COMPANY***
 - ***USE A TRUSTED VPN (like riseup.net, proton VPN, IVPN, etc)***.
 - ***DON'T USE A FREE VPN***
+- [***Sign the petition to repeal the Online Safety Act***](https://petition.parliament.uk/petitions/722903)
   
 # The long version
 Unfortunately the Online "Safety" Act (OSA) is here. If you are in the UK, you might get told to verify your age with ID, digital ID, mobile & email checks, credit card checks, payment details or a selfie video. 
@@ -38,4 +39,4 @@ Don't use this. This can leas you onto the darkweb. In addition it is *slow*. Bu
   
 If you believe that you are at a high risk because of this, please contact expert help at places like [Nothing2Hide](https://nothing2hide.org/en/).
   
-Please fight censorship.
+Please fight censorship. 🚀
