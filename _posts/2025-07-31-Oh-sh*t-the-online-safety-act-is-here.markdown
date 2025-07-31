@@ -38,5 +38,7 @@ This is not an unreasonable option, if you have the skill. I will leave this sho
 Don't use this. This can leas you onto the darkweb. In addition it is *slow*. But if a VPN is not working, using it through an app such as orbot or InviZible Pro will tunnel all of your device through it (like a VPN will). Snowflake can also be used. ***ONLY USE THIS AS A LAST RESORT.***
   
 If you believe that you are at a high risk because of this, please contact expert help at places like [Nothing2Hide](https://nothing2hide.org/en/).
-  
-Please fight censorship. 🚀
+ 
+ 
+Please help fight censorship. 🚀  
+Please share to help spread the word. ❤
