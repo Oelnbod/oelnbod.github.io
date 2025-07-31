@@ -11,6 +11,7 @@ We do not know how secure this data is. Companies collecting *millions* of peopl
   
 I cannot state this enough, this data is the *holy grail* of personal data. Hackers *will* be trying *desperately* to breach this. Because with that data, it is possible to impersonate you to a level beyond what we have seen today. 
   
+Another reason to not prove your age is principle. I strongly encourage you to resist this attempt at restricting civil liberty. 
 ## So what are your options?
 1. Use a trusted public VPN.
 2. Host your own VPN (technical and expensive)
