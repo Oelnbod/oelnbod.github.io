@@ -18,7 +18,9 @@ We do not know how secure this data is. Companies collecting *millions* of peopl
   
 I cannot state this enough, this data is the *holy grail* of personal data. Hackers *will* be trying *desperately* to breach this. Because with that data, it is possible to impersonate you to a level beyond what we have seen today. 
   
-Another reason to not prove your age is principle. I strongly encourage you to resist this attempt at restricting civil liberty. This act is *already* [being used to prevent information against the government being spread](https://www.404media.co/uk-users-need-to-post-selfie-or-photo-id-to-view-reddits-r-israelcrimes-r-ukrainewarfootage/). And with the facility for Internet Service Providers (ISPs) to block websites that do not comply, this is borderline "Great Firewall of the UK". Information about government accountability matters to all, including minors. And many people may not be able to access ID, if they lack a drivers license and do not hold a passport. This particularly affects minority groups and the youth. Whilst there are many age verification systems, most platforms only implement one - restricting access to information for minorities. It also violates one of the fundamental pillars of the internet: *free (as in freedom *and* money) access to information for all.*
+Another reason to not prove your age is principle. I strongly encourage you to resist this attempt at restricting civil liberty. This act is *already* [being used to prevent information against the government being spread](https://www.404media.co/uk-users-need-to-post-selfie-or-photo-id-to-view-reddits-r-israelcrimes-r-ukrainewarfootage/). And with the facility for Internet Service Providers (ISPs) to block websites that do not comply, this is borderline "Great Firewall of the UK". Information about government accountability matters to all, including minors. And many people may not be able to access ID, if they lack a drivers license and do not hold a passport. This particularly affects minority groups and the youth. Whilst there are many age verification systems, most platforms only implement one - restricting access to information for minorities. It also violates one of the fundamental pillars of the internet: *free (as in freedom *and* money) access to information for all.*  
+  
+Please sign the petition to repeal the OSA at [https://petition.parliament.uk/petitions/722903](https://petition.parliament.uk/petitions/722903). 
   
 ## So what are your options?
 1. Use a trusted public VPN.
@@ -33,3 +35,7 @@ This is not an unreasonable option, if you have the skill. I will leave this sho
 
 ### The Onion Router (TOR)
 Don't use this. This can leas you onto the darkweb. In addition it is *slow*. But if a VPN is not working, using it through an app such as orbot or InviZible Pro will tunnel all of your device through it (like a VPN will). Snowflake can also be used. ***ONLY USE THIS AS A LAST RESORT.***
+  
+If you believe that you are at a high risk because of this, please contact expert help at places like [Nothing2Hide](https://nothing2hide.org/en/).
+  
+Please fight censorship.
