@@ -11,17 +11,24 @@ tags: Online Safety Act, government, privacy, human rights, censorship
 - [***Sign the petition to repeal the Online Safety Act***](https://petition.parliament.uk/petitions/722903)
   
 # The long version
+## What is the Online Safety Act and why is it a problem?
+
 Unfortunately the Online "Safety" Act (OSA) is here. If you are in the UK, you might get told to verify your age with ID, digital ID, mobile & email checks, credit card checks, payment details or a selfie video. 
   
  ***DO NOT DO THIS!!***  
   
-We do not know how secure this data is. Companies collecting *millions* of people's ID, bank details and videos of themselves tied to name *could not be more attractive to hackers*.  It is reasonable to *assume* that this data will be hacked. Because you cannot change your face, this data has to be safe *for the rest of your life*. And with the *ludicrous* growth in computing power (even if Moore's law is defunct, which isn't necessarily true) and with the advent of quantumn computing - a store now, crack later model is *insanely* practical for hackers when faced with such stupendously valuable data. 
+This is a poor attempt at ensuring that children do not access unsafe content. This is doable without violating everyone's privacy, such as parental control or [the approach of the European Commission](https://digital-strategy.ec.europa.eu/en/policies/eu-age-verification). 
+
+
+Problems first arise when third parties are verifying age, we do not know how securely this data is stored  Companies collecting *millions* of people's ID, bank details and videos of themselves tied to name *could not be more attractive to hackers*.  It is reasonable to *assume* that this data will be hacked. Because you cannot change your face, this data has to be safe *for the rest of your life*. And with the *ludicrous* growth in computing power (even if Moore's law is defunct, which isn't necessarily true) and with the advent of quantumn computing - a store now, crack later model is *insanely* practical for hackers when faced with such stupendously valuable data, which will lead to *inevitable breaching* of *your* personal data.
   
-I cannot state this enough, this data is the *holy grail* of personal data. Hackers *will* be trying *desperately* to breach this. Because with that data, it is possible to impersonate you to a level beyond what we have seen today. 
+I cannot state this enough, this data is the *holy grail* of personal data. Hackers *will* be trying *desperately* to breach this. Because with that data, it is possible to impersonate you to an incredible level which could potentially lead to your money being stolen, you being defamed or even incriminated.
   
 Another reason to not prove your age is principle. I strongly encourage you to resist this attempt at restricting civil liberty. This act is *already* [being used to prevent information against the government being spread](https://www.404media.co/uk-users-need-to-post-selfie-or-photo-id-to-view-reddits-r-israelcrimes-r-ukrainewarfootage/). And with the facility for Internet Service Providers (ISPs) to block websites that do not comply, this is borderline "Great Firewall of the UK". Information about government accountability matters to all, including minors. And many people may not be able to access ID, if they lack a drivers license and do not hold a passport. This particularly affects minority groups and the youth. Whilst there are many age verification systems, most platforms only implement one - restricting access to information for minorities. It also violates one of the fundamental pillars of the internet: *free (as in freedom *and* money) access to information for all.*  
   
-Please sign the petition to repeal the OSA at [https://petition.parliament.uk/petitions/722903](https://petition.parliament.uk/petitions/722903). 
+Online safety for children does not have to be this way,educationg parents on how to properly restrict children's devices is far more effective and less easily evadable. Further, proving age can be done in a privacy preserving way [as the European Commission proposes](https://digital-strategy.ec.europa.eu/en/policies/eu-age-verification). 
+  
+To help fight for your rights, please sign the petition to repeal the OSA at [https://petition.parliament.uk/petitions/722903](https://petition.parliament.uk/petitions/722903). 
   
 ## So what are your options?
 1. Use a trusted public VPN.
