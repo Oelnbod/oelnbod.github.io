@@ -10,9 +10,13 @@ tags: Online Safety Act, government, privacy, human rights, censorship
 - [***Sign the petition to repeal the Online Safety Act***](https://petition.parliament.uk/petitions/722903)
   
 Others have written far better articles, so I am just linking to them instead.
-  
+  [https://www.blocked.org.uk/osa-blocks](https://www.blocked.org.uk/osa-blocks)  
+[https://elpais.com/opinion/2025-08-06/una-ley-equivocada-para-proteger-a-los-ninos.html](https://elpais.com/opinion/2025-08-06/una-ley-equivocada-para-proteger-a-los-ninos.html) (Spanish)  
+[https://www.girlonthenet.com/blog/age-verification-whats-the-harm/](https://www.girlonthenet.com/blog/age-verification-whats-the-harm/) (Other content NSFW)  
+
 If you believe that you are at a high risk because of this, please contact expert help at places like [Nothing2Hide](https://nothing2hide.org/en/).
  
+
  
 Please help fight censorship. 🚀  
 Please share to help spread the word. ❤
