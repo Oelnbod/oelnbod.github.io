@@ -6,7 +6,7 @@ tags: Online Safety Act, government, privacy, human rights, censorship
 
 - ***DO NOT VERIFY YOUR AGE!***
 - ***YOU ARE HANDING OVER YOUR MOST VALUABLE PERSONAL DATA TO A COMPANY***
-- ***USE A TRUSTED V*N.***
+- ***USE A TRUSTED V\*N.***
 - [***Sign the petition to repeal the Online Safety Act***](https://petition.parliament.uk/petitions/722903)
   
 Others have written far better articles, so I am just linking to them instead.
