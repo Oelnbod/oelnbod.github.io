@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html data-theme="{{ or site.Params.colortheme `light` }}" lang="{{ site.Language.LanguageCode }}"
+  dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
+<head>
+  {{ partial "head.html" . }}
+</head>
+
+<body>
+  {{ partial "header.html" . }}
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "backtotop.html" . }}
+
+  {{ partial "footer.html" . }}
+
+  {{- if eq .Kind "page" | and (in .CurrentSection.Path "posts") -}}
+  {{ $externalJS := resources.Get "/assets/js/theme-toggle.js" |
+  resources.ExecuteAsTemplate "/assets/js/theme-toggle-gen.js" . }}
+  <script src="{{ $externalJS.RelPermalink }}"></script>
+  {{- else -}}
+  {{ with resources.Get "/assets/js/site-theme-toggle.js" }}
+  {{ if eq hugo.Environment "development" }}
+  {{ with . | js.Build }}
+  <script src="{{ .RelPermalink }}"></script>
+  {{ end }}
+  {{ else }}
+  {{ $opts := dict "minify" true }}
+  {{ with . | js.Build $opts | fingerprint }}
+  <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+  {{- end -}}
+
+
+</body>
+
+</html>

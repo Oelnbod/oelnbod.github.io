@@ -1,0 +1,38 @@
+<header>
+    <nav class="navbar">
+        <div class="navbar-top" id="top">
+            <div class="navbar-logo">
+                <a href="{{ .Site.BaseURL }}" class="logo-text" style="font-family: jicaleta;">
+                    {{ if .Site.Params.logoImg }}
+                    {{ $brand := resources.Get "/assets/imgs/logo.png" }}
+                    <img src="{{ $brand.RelPermalink }}" alt="Logo Image"
+                        class="logo-image {{ if .Site.Params.logoInvert }}logo-invert{{ end }}" loading="lazy">
+                    {{ else }}
+                    {{ .Site.Title }}
+                    {{ end }}
+                </a>
+            </div>
+            <div class="navbar-burger" id="navbar-burger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <div class="navbar-menu" id="navbar-menu">
+            <div class="navbar-link-list">
+                {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}" class="navbar-link-item">{{ index $.Site.Data.l10n .Identifier }}</a>
+                {{ end }}
+                <a href="/search" class="navbar-link-item">{{ index $.Site.Data.l10n "search" }}</a>
+            </div>
+            <div class="theme-toggle">
+                <div id="theme-toggle-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24">
+                        <path fill="#1a1a1a"
+                            d="M10 2c-1.82 0-3.53.5-5 1.35C8 5.08 10 8.3 10 12s-2 6.92-5 8.65C6.47 21.5 8.18 22 10 22a10 10 0 0 0 10-10A10 10 0 0 0 10 2" />
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>

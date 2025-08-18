@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oelnblog</title>
+    <link>http://0.0.0.0:7878/</link>
+    <description>Recent content on Oelnblog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Aug 2025 15:40:44 +0100</lastBuildDate>
+    <atom:link href="http://0.0.0.0:7878/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://0.0.0.0:7878/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://0.0.0.0:7878/about/</guid>
+      <description>&lt;p&gt;??&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo Switch complete!</title>
+      <link>http://0.0.0.0:7878/posts/switch-to-hugo-complete/</link>
+      <pubDate>Thu, 14 Aug 2025 15:40:44 +0100</pubDate>
+      <guid>http://0.0.0.0:7878/posts/switch-to-hugo-complete/</guid>
+      <description>&lt;p&gt;Hello from HuGo!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;oelnbod.github.io&#34;&gt;oelnbod.github.io&lt;/a&gt; will now be set to redirect to &lt;a href=&#34;oelnbod.codeberg.page&#34;&gt;oelnbod.codeberg.page&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://0.0.0.0:7878/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://0.0.0.0:7878/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
