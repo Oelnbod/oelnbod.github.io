@@ -7,4 +7,4 @@ title: Hugo Switch complete!
 
 Hello from HuGo!  
   
-[oelnbod.github.io](oelnbod.github.io) will now be set to redirect to [oelnbod.codeberg.page](oelnbod.codeberg.page)!
+Scope has slightly changed, I am going to keep hosting this on GitHub Pages, as codeberg pages and actions is not reliable enough. Also, I do not want to impose my arguably irrelevant blog on Codeberg (at least not at this time). BUT, I will switch to Codeberg for my coding projects. In the long term, I would like to self host and federate through [ForgeFed](https://github.com/forgefed/forgefed), but that is in its infancy. 
