@@ -1,0 +1,4 @@
+{{- $code := strings.TrimPrefix "\n" (strings.TrimSuffix "\n" .Inner) -}}
+<div class="code-wrapper">
+  {{ highlight $code .Type }}
+</div>
