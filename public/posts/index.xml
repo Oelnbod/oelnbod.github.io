@@ -13,7 +13,7 @@
       <link>http://0.0.0.0:7878/posts/switch-to-hugo-complete/</link>
       <pubDate>Thu, 14 Aug 2025 15:40:44 +0100</pubDate>
       <guid>http://0.0.0.0:7878/posts/switch-to-hugo-complete/</guid>
-      <description>&lt;p&gt;Hello from HuGo!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;oelnbod.github.io&#34;&gt;oelnbod.github.io&lt;/a&gt; will now be set to redirect to &lt;a href=&#34;oelnbod.codeberg.page&#34;&gt;oelnbod.codeberg.page&lt;/a&gt;!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello from HuGo!&lt;/p&gt;&#xA;&lt;p&gt;Scope has slightly changed, I am going to keep hosting this on GitHub Pages, as codeberg pages and actions is not reliable enough. Also, I do not want to impose my arguably irrelevant blog on Codeberg (at least not at this time). BUT, I will switch to Codeberg for my coding projects. In the long term, I would like to self host and federate through &lt;a href=&#34;https://github.com/forgefed/forgefed&#34;&gt;ForgeFed&lt;/a&gt;, but that is in its infancy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thanks Aotearoa.</title>
