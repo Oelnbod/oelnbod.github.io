@@ -6,14 +6,14 @@ permalink: /about/
 ## About me.
 {{< figure src="/assets/imgs/me.jpg" title="A living Human" alt="Me!" width="400" >}}
 
-Actually not a bot.
-Also not Actually called Oelnbod.
-Interested in infosec, privacy, human rights, FLOSS, etc. 
-
-Rust user.
-
-Mastodon: [https://mastodon.social/@Oelnbod](https://mastodon.social/@Oelnbod)
-Photography: [pexels.com/@oelnbod/](pexels.com/@oelnbod/)
+Actually not a bot.  
+Also not Actually called Oelnbod.  
+Interested in infosec, privacy, human rights, FLOSS, etc.   
+  
+Rust user.  
+  
+Mastodon: [https://mastodon.social/@Oelnbod](https://mastodon.social/@Oelnbod)  
+Photography: [pexels.com/@oelnbod/](pexels.com/@oelnbod/)  
 
 
 ## About this website. 
