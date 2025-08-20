@@ -12,6 +12,10 @@ Interested in infosec, privacy, human rights, FLOSS, etc.
 
 Rust user.
 
+Mastodon: [https://mastodon.social/@Oelnbod](https://mastodon.social/@Oelnbod)
+Photography: [pexels.com/@oelnbod/](pexels.com/@oelnbod/)
+
+
 ## About this website. 
   
 This website is currently hosted on github pages and built with HuGo and [Vortisil](https://github.com/khitezza/vortisil). I may migrate to [Codeberg.org](https://codeberg.org) at some point. 
