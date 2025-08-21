@@ -1,2 +1,3 @@
 # My Blog
-Visit [oelnbod.github.io](oelnbod.github.io)
+Now on [gitlab pages](https://oelnbod-github-io-c11c85.gitlab.io/).  
+This is just a redirect.
